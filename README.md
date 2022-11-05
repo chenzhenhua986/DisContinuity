@@ -3,4 +3,4 @@ This project is supposed to explore ways of detecting discontinuities in movies.
 
 Walkway behind the sign post           |  Walkway missed
 :-------------------------:|:-------------------------:
-![](Bart_1.png.png)  |  ![](Bart_2.png)
+![](Bart_1.png)  |  ![](Bart_2.png)
